@@ -32,8 +32,10 @@ I'm a **Computer Science undergraduate** at SZABIST Karachi (6 semesters complet
 ![MS Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 📊 GitHub Stats
-![Ronit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitkumar-prog&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitkumar-prog&layout=compact&theme=tokyonight)
+
+![Ronit Kumar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ronitkumar-prog&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Ronitkumar-prog&layout=compact&theme=tokyonight)
+
 
 ## 🚀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
