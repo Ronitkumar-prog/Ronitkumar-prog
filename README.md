@@ -34,7 +34,7 @@ I'm a **Computer Science undergraduate** at SZABIST Karachi (6 semesters complet
 ![Ronit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 ## 🚀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 ## 📫 Connect with Me
 
