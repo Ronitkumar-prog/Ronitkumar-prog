@@ -31,14 +31,17 @@ I'm a **Computer Science undergraduate** at SZABIST Karachi (6 semesters complet
 ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![MS Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+## 📊 GitHub Stats
+
 ![Ronit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitkumar-prog&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitkumar-prog&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ronitkumar-prog&theme=tokyonight)
+
 ## 🚀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ronit-kumar-chandwani-9841a3319)
-- [GitHub](https://github.com/Ronitkumar-prog)
 - 📧 ronitkumarchandwani454@gmail.com
 
